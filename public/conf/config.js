@@ -2,7 +2,7 @@ window.config = {
   // 网站标题
   siteName: 'Subconverter Web',
   // API 地址
-  apiUrl: 'http://127.0.0.1:25500',
+  apiUrl: 'https://subweb.q2g.one',
   // 短域名服务地址
   shortUrl: 'https://s.ops.ci',
   // 默认远程配置
